@@ -30,3 +30,7 @@ Este projeto demonstra a utilização de componentes ColdFusion (`.cfc`) para ge
 - Adobe ColdFusion instalado.
 - Servidor web configurado (ex: Apache).
 - Banco de dados MySQL configurado com a tabela `users`.
+
+## Tecnologia Utilizada
+
+<a href="https://programartudo.blogspot.com/2024/12/coldfusion-explorando-uma-ferramenta.html" target="_blank"><img loading="lazy" src="https://i.ibb.co/Fh0pyX0/coldfusion.png" width="40" height="40" alt="HTML Icon"/></a>
