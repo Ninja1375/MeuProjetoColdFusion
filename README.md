@@ -33,4 +33,4 @@ Este projeto demonstra a utilização de componentes ColdFusion (`.cfc`) para ge
 
 ## Tecnologia Utilizada
 
-<a href="https://programartudo.blogspot.com/2024/12/coldfusion-explorando-uma-ferramenta.html" target="_blank"><img loading="lazy" src="https://i.ibb.co/Fh0pyX0/coldfusion.png" width="40" height="40" alt="HTML Icon"/></a>
+<a href="https://programartudo.blogspot.com/2024/12/coldfusion-explorando-uma-ferramenta.html" target="_blank"><img loading="lazy" src="https://i.ibb.co/Fh0pyX0/coldfusion.png" width="50" height="50" alt="HTML Icon"/></a>
